@@ -1,0 +1,41 @@
+body{
+    background-image: url(stock.jpeg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Barlow',sans-serif;
+}
+
+.jumbotron {
+    width: 50%;
+    height: 30%;
+    margin-left: 25%;
+    margin-top: 2%;
+    position: absolute;
+    border-radius:16px;
+}
+
+.pill {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 10px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin-top: -1.5%;
+    text-decoration: none;
+    font-size: medium;
+    width: 25%;
+}
+
+.content {
+    width: 50%;
+    height: 30%;
+    margin-left: 25%;
+    margin-top: 19%;
+    position: absolute;
+    border-radius:16px;
+    background-color:lightblue;
+}
